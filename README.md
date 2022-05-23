@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+# #띄어쓰기 문장을 적으면 #하나는 h1태그와 같은 역활을 합니다.
+###### #6개는 h6와 같은 역활을 합니다
+
 <!--
 **poiup/poiup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
